@@ -1,0 +1,25 @@
+{
+  "name": "language-dtd",
+  "version": "0.1.0",
+  "description": "DTD language support in Atom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastienscout/atom-dtd-language.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "keywords": [
+    "dtd",
+    "language",
+    "grammar",
+    "syntax",
+    "snippets"
+  ],
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/sebastienscout/atom-dtd-language/issues"
+  }
+}
