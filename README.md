@@ -4,11 +4,11 @@ Adds syntax highlighting and snippets to DTD (Document Type Definition) files in
 
 ## Snippets
 
-| Snippets      | Result                                   |
-| ------------- |:----------------------------------------:|
-| `<`           | <!NAME element>                          |
-| `element`     | <!ELEMENT name (content)>                |
-| `attlist`     | <!ATTLIST element attribute TYPE #VALUE> |
+| Snippets      | Result                                         |
+| ------------- |:----------------------------------------------:|
+| `<`           | &lt;!NAME element&gt;                          |
+| `element`     | &lt;!ELEMENT name (content)&gt;                |
+| `attlist`     | &lt;!ATTLIST element attribute TYPE #VALUE&gt; |
 
 ## Bugs
 
