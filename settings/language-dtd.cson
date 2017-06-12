@@ -1,0 +1,4 @@
+'.source.dtd':
+    'editor':
+        'commentStart': '<!-- '
+        'commentEnd': ' -->'
